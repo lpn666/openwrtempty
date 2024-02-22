@@ -1,0 +1,12 @@
+src-git packages https://githubfast.com/coolsnowwolf/packages
+src-git luci https://githubfast.com/coolsnowwolf/luci
+src-git routing https://githubfast.com/coolsnowwolf/routing
+src-git telephony https://githubfast.com/openwrt/telephony
+src-git small https://githubfast.com/kenzok8/small-package
+src-git ken https://githubfast.com/kenzok8/openwrt-packages
+#src-git helloworld https://githubfast.com/fw876/helloworld.git
+#src-git oui https://githubfast.com/zhaojh329/oui.git
+#src-git video https://githubfast.com/openwrt/video.git
+#src-git targets https://githubfast.com/openwrt/targets.git
+#src-git oldpackages https://githubfast.com/openwrt/packages
+#src-link custom /usr/src/openwrt/custom-feed
