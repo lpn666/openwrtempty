@@ -12,3 +12,7 @@
 
 # Modify default IP
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
+
+echo 'src-git ken https://githubfast.com/kenzok8/openwrt-packages' >>feeds.conf.default
+echo 'src-git small https://githubfast.com/kenzok8/small-package' >>feeds.conf.default
+
